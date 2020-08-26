@@ -8,6 +8,8 @@ A simple polynomial regression using South African Covid-19 data
 * Numpy
 * ScikitLearn
 * Matplotlib
+* Supervised Machine Learning
+* Polynomial Regression Models
 
 ### What the app can do
 
